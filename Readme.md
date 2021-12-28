@@ -1,4 +1,4 @@
-This is my final project of "Introduction To Databases", where we created our own DB (got the data from TMDB).
+This is my final project of "Introduction To Databases", where we created our own DB (got the data from TMDB) intended for movie crew hiring.
 My job (with Ofek) was to design our own DB, as well as setting it up- writing the scripts that fetch the data we want from TMDB.
 
 Rest of the group: Oded Kristianpoller, Mor Buchnik ,Ofek Bar, Yoav Gaulan
